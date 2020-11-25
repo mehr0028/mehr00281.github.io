@@ -1,0 +1,33 @@
+-------------------- Auto-Git Log --------------------
+		Wed Nov 25 2020 09:44:34 GMT-0500 (Eastern Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* week-11/climate-action.html
+* week-11/css/main.css
+* week-11/images/actnowapp.jpg
+* week-11/images/bring_bag.png
+* week-11/images/desktop-banner.jpg
+* week-11/images/drive_less.png
+* week-11/images/lights_off.png
+* week-11/images/local.png
+* week-11/images/mobile-banner.jpg
+* week-11/images/page-content.txt
+* week-11/images/plant-based.png
+* week-11/images/recycle.png
+* week-11/images/reuse.png
+* week-11/images/shower.png
+* week-11/images/un-logo-desktop.svg
+* week-11/images/un-logo-mobile.svg
+* week-11/images/unplug.png
+* week-11/images/zero-waste_fashion.png
+* week-11/index.html
+
+
+Deleted files:
+
+
+Renamed files:
